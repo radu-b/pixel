@@ -1,7 +1,7 @@
 # Pixel
 Reconstructs the image of a pixel from a photograph of a screen.
 
-You take a photo of this image on your screen:
+You take a photo of this image on your screen with a normal camera:
 
 ![Pixel input](resources/screen.png)
 
